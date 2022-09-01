@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Demo</string>
+    <string name="login_label_description">Please login to your profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="id">Id:</string>
+    <string name="user">User:</string>
+    <string name="login">Login</string>
+</resources>
